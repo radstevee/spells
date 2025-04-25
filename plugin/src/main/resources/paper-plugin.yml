@@ -1,0 +1,6 @@
+name: spells
+main: net.radsteve.spells.plugin.SpellsPlugin
+bootstrapper: net.radsteve.spells.plugin.SpellsPluginProvider
+version: 0.0.0
+api-version: 1.21.4
+authors: ["radstevee"]
