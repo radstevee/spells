@@ -37,8 +37,8 @@ public fun <T> raytraceParticleUntilBlock(
       Vector(
         headRotation.x * maxDistance,
         headRotation.y * maxDistance,
-        headRotation.z * maxDistance
-      )
+        headRotation.z * maxDistance,
+      ),
     )
 
   val hitLocation = Location(start.world, hitPos.x, hitPos.y, hitPos.z)
@@ -64,7 +64,7 @@ public fun <T> raytraceParticleUntilBlock(
       maxOffset.y,
       maxOffset.z,
       speed,
-      data
+      data,
     )
 
     dist += particleSpacing

@@ -1,6 +1,5 @@
 package net.radsteve.spells
 
-import net.radsteve.axi.event.SuspendingListener
 import net.radsteve.axi.utility.buildItemStack
 import net.radsteve.axi.utility.editItemMeta
 import org.bukkit.Material

@@ -7,7 +7,6 @@ import net.radsteve.axi.utility.editItemMeta
 import net.radsteve.spells.SpellsResourcePack
 import net.radstevee.packed.core.item.ItemModel
 import net.radstevee.packed.core.item.definition.BasicItem
-import net.radstevee.packed.core.item.definition.EmptyItem
 import net.radstevee.packed.core.item.definition.ItemDefinition
 import net.radstevee.packed.core.key.Key
 import org.bukkit.Material
